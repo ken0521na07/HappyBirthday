@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  /* background-image: url("./images/back.jpg"); */
+}
+.main {
+  /* display: none; */
+}
+.ques_img {
+  width: 90%;
+  display: block;
+  margin-inline: auto;
+  margin-block: 3vh;
+}
+
+.input {
+  font-size: 2em;
+  width: 80%;
+  margin-inline: auto;
+}
+.button {
+  width: 60%;
+  display: block;
+  margin-inline: auto;
+}
+.ques2,
+.ques3,
+.ques4 {
+  display: none;
+}
+.nazo_text {
+  /* border: 2px solid rgb(245, 124, 124); */
+  /* background-color: rgb(255, 242, 0); */
+  border-radius: 10px;
+  margin-top: 4vh;
+  z-index: 1;
+  font-size: 2em;
+  width: 80%;
+  margin-inline: auto;
+  color: rgb(86, 86, 86);
+}
+.clear {
+  display: none;
+  margin-top: 10vh;
+  font-size: 2em;
+}
+.name {
+  font-size: 1rem;
+}
